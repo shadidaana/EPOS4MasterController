@@ -1,0 +1,14 @@
+../Core/Src/main.c:89:5:main	13
+../Core/Src/main.c:220:6:SystemClock_Config	3
+../Core/Src/main.c:265:13:MX_NVIC_Init	1
+../Core/Src/main.c:277:13:MX_CAN1_Init	2
+../Core/Src/main.c:314:13:MX_GPIO_Init	1
+../Core/Src/main.c:328:6:CAN1_RX0_IRQHandler	14
+../Core/Src/main.c:401:8:init_motor	5
+../Core/Src/main.c:427:8:init_motor_Position	5
+../Core/Src/main.c:452:8:Set_Motor_Speed	4
+../Core/Src/main.c:477:8:Set_Motor_Position	4
+../Core/Src/main.c:502:8:stop_motor_with_brake	3
+../Core/Src/main.c:514:8:stop_motor_without_brake	3
+../Core/Src/main.c:527:6:send_can_message	1
+../Core/Src/main.c:543:6:Error_Handler	1
